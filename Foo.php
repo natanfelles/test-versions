@@ -2,5 +2,5 @@
 
 class Foo
 {
-    public const VERSION = '22.0.0';
+    public const VERSION = '22.0.1';
 }
